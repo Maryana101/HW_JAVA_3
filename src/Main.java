@@ -6,7 +6,6 @@ public class Main {
         int bonusItem;
         int bonus = 0;
 
-
         balance = 100;
         income = 1100;
         bonusItem = 100;
